@@ -1,7 +1,7 @@
-title: Foam Jekyll Template
+title: si14
 theme: jekyll-theme-primer
 
-baseurl: /foam-jekyll-template
+baseurl: /si14
 
 highlighter: rouge
 gist:
@@ -13,7 +13,7 @@ kramdown:
 readme_index:
   enabled:          true
 
-repository: hikerpig/foam-jekyll-template
+repository: hikerpig/si14
 
 # Generate permalinks in format specified in: https://jekyllrb.com/docs/permalinks/#built-in-formats
 permalink: pretty
